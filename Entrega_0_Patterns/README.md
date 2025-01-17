@@ -190,7 +190,7 @@ Imagina que hem d'implementar un mecanisme per notificar als mentors i mentores 
 
 1. Clona el repositorio en tu máquina local:
    ```sh
-   git clone https://github.com/soughtsingularity/Sprint-1/tree/main/Entrega_2_PHP_BASICS
+   git clone https://github.com/soughtsingularity/Sprint-3/tree/main/Entrega_0_Patterns
 
 2. Navega al directorio del proyecto:
 
