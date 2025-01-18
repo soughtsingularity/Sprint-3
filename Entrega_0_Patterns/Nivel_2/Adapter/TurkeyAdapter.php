@@ -12,7 +12,7 @@ class TurkeyAdapter {
     }
 
     public function quack() {
-           echo "Gobble gobble \n";
+           $this->turkey->gobble();
     }
 
     public function fly() {
