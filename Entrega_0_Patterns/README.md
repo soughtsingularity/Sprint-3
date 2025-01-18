@@ -127,7 +127,7 @@ Quan rentem els plats (a mà), generalment agafem una peça a rentar, l'ensabone
 Aquests passos queden totalment automatitzats amb un rentaplats automàtic on, bàsicament posem una pastilla o gel rentador, prenem el botó "on" i es procedeix a aquests passos de manera automàtica. 
 Implementa aquesta lògica fent servir el patró Facade.
 
-## 	 Nivel 3
+## ✔️	 Nivel 3
 ### Ejercicio 1
 #### Strategy
 
