@@ -39,7 +39,7 @@ Imagina que ets una persona que està a punt de sortir de casa per anar a estudi
 
 Fes una programa que simuli aquesta lògica fent servir el patró d'injecció de dependències.
 
-## 	Nivel 2
+## ✔️	Nivel 2
 
 ### Ejercicio 1
 #### Adapter
